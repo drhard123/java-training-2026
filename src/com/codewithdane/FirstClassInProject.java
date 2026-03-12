@@ -1,3 +1,4 @@
+package com.codewithdane;
 
 public class FirstClassInProject {
 
